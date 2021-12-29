@@ -27,3 +27,7 @@ Checkout the webapp by clicking the link below.
 
 Link : https://movie-recommender-sytm.herokuapp.com/
 
+## Technologies Used:
+* Spyder is used for IDE.
+* For creating webapp Streamlit framework is used.
+* Heroku is used for Model Deployment.
