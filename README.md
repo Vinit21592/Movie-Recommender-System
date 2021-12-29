@@ -8,4 +8,8 @@ The dataset is downloaded from **Kaggle:TMDB 5000 Movie Dataset**
 Dataset Link: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 # Project Description:
-The dataset has 5000 movies, using CountVectorizer technique movie vectors are created and then similarity between each movie vector is calculated using cosine similarity.
+The dataset has 5000 movies, by performing Vectorization technique movie vectors are created and then similarity between each movie vector is calculated using cosine similarity.
+# Screenshot:
+The user will select a movie of choice from the dropdown menu.
+
+<img src="Images/choose.PNG" height="500">
