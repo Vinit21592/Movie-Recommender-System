@@ -12,4 +12,4 @@ The dataset has 5000 movies, by performing Vectorization technique movie vectors
 # Screenshot:
 The user will select a movie of choice from the dropdown menu.
 
-<img src="Images/choose.PNG" height="400" width="400">
+<img src="Images/choose.PNG" height="400">
